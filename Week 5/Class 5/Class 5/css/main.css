@@ -16,7 +16,8 @@ p{
 
 @font-face{
     font-family: "Porter Sans Block";
-    src: url(../assets/Fonts/porter-sans-inline-block-webfont.woff) format("woff");
+    src: url(../assets/Fonts/porter-sans-inline-block-webfont.woff) 
+    format("woff");
 }
 
 .localFont p{
